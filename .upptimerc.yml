@@ -9,8 +9,18 @@ assignees:
 sites:
   - name: XCPCIO
     url: https://xcpcio.com
-  - name: Board - XCPCIO
+  - name: XCPCIO Github Mirror
+    url: https://gh.xcpcio.com
+  - name: Board
     url: https://board.xcpcio.com
+  - name: Codeforces Analytics
+    url: https://codeforces.analytics.xcpcio.com
+  - name: ShowCode
+    url: https://showcode.xcpcio.com
+  - name: University Information
+    url: https://university.xcpcio.com
+  - name: BZPRO
+    url: https://bzpro.xcpcio.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
