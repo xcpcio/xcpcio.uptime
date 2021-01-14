@@ -40,19 +40,19 @@
     "url": "https://board.xcpcio.com",
     "icon": "https://favicons.githubusercontent.com/board.xcpcio.com",
     "slug": "board",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1978,
-    "timeDay": 1441,
-    "timeWeek": 1309,
-    "timeMonth": 1978,
-    "timeYear": 1978,
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.51%",
+    "time": 2727,
+    "timeDay": 5829,
+    "timeWeek": 2422,
+    "timeMonth": 2727,
+    "timeYear": 2727,
     "dailyMinutesDown": {
-      "2021-01-14": 0
+      "2021-01-14": 60
     }
   },
   {
