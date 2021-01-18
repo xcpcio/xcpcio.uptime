@@ -13,6 +13,8 @@ sites:
     url: https://gh.xcpcio.com
   - name: Board
     url: https://board.xcpcio.com
+  - name: Rating
+    url: https://rating.xcpcio.com
   - name: Codeforces Analytics
     url: https://codeforces.analytics.xcpcio.com
   - name: ShowCode
