@@ -102,18 +102,18 @@
     "icon": "https://favicons.githubusercontent.com/rating.xcpcio.com",
     "slug": "rating",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 351,
     "timeDay": 305,
     "timeWeek": 342,
     "timeMonth": 330,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 24
     }
   },
   {
@@ -121,19 +121,19 @@
     "url": "https://codeforces.analytics.xcpcio.com",
     "icon": "https://favicons.githubusercontent.com/codeforces.analytics.xcpcio.com",
     "slug": "codeforces-analytics",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 345,
-    "timeDay": 310,
-    "timeWeek": 336,
-    "timeMonth": 322,
+    "timeDay": 292,
+    "timeWeek": 327,
+    "timeMonth": 320,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 23
     }
   },
   {
@@ -142,18 +142,18 @@
     "icon": "https://favicons.githubusercontent.com/showcode.xcpcio.com",
     "slug": "show-code",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 322,
     "timeDay": 282,
     "timeWeek": 333,
     "timeMonth": 315,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 23
     }
   },
   {
@@ -161,18 +161,20 @@
     "url": "https://university.xcpcio.com",
     "icon": "https://favicons.githubusercontent.com/university.xcpcio.com",
     "slug": "university-information",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
-    "timeDay": 289,
-    "timeWeek": 320,
+    "timeDay": 297,
+    "timeWeek": 318,
     "timeMonth": 310,
     "timeYear": 319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   },
   {
     "name": "BZPRO",
@@ -180,18 +182,18 @@
     "icon": "https://favicons.githubusercontent.com/bzpro.xcpcio.com",
     "slug": "bzpro",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 370,
     "timeDay": 302,
     "timeWeek": 374,
     "timeMonth": 363,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 23
     }
   }
 ]
