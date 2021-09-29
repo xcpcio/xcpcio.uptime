@@ -4,17 +4,17 @@
     "url": "https://xcpcio.com",
     "icon": "https://favicons.githubusercontent.com/xcpcio.com",
     "slug": "xcpcio",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "91.31%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "91.30%",
     "uptimeWeek": "97.79%",
     "uptimeMonth": "98.97%",
-    "uptimeYear": "99.48%",
-    "time": 1773,
-    "timeDay": 1541,
-    "timeWeek": 1999,
-    "timeMonth": 2220,
-    "timeYear": 1773,
+    "uptimeYear": "99.49%",
+    "time": 1772,
+    "timeDay": 1454,
+    "timeWeek": 1948,
+    "timeMonth": 2202,
+    "timeYear": 1772,
     "dailyMinutesDown": {
       "2021-09-29": 125,
       "2021-09-27": 13,
@@ -62,7 +62,7 @@
       "2021-03-19": 7,
       "2021-03-18": 29,
       "2021-03-17": 25,
-      "2021-03-16": 36
+      "2021-03-16": 7
     }
   },
   {
@@ -90,16 +90,16 @@
     "url": "https://board.xcpcio.com",
     "icon": "https://favicons.githubusercontent.com/board.xcpcio.com",
     "slug": "board",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "93.62%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "93.61%",
     "uptimeWeek": "98.14%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "99.32%",
+    "uptimeYear": "99.33%",
     "time": 1522,
-    "timeDay": 2000,
-    "timeWeek": 1871,
-    "timeMonth": 1909,
+    "timeDay": 1814,
+    "timeWeek": 1827,
+    "timeMonth": 1895,
     "timeYear": 1522,
     "dailyMinutesDown": {
       "2021-09-29": 92,
@@ -151,8 +151,7 @@
       "2021-01-23": 215,
       "2021-01-22": 175,
       "2021-01-21": 86,
-      "2021-01-20": 137,
-      "2021-01-18": 50
+      "2021-01-20": 137
     }
   },
   {
@@ -172,7 +171,7 @@
     "timeMonth": 0,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2021-09-29": 1073,
+      "2021-09-29": 1090,
       "2021-09-28": 1440,
       "2021-09-27": 1440,
       "2021-09-26": 1440,
@@ -238,7 +237,7 @@
     "timeMonth": 0,
     "timeYear": 346,
     "dailyMinutesDown": {
-      "2021-09-29": 1073,
+      "2021-09-29": 1090,
       "2021-09-28": 1440,
       "2021-09-27": 1440,
       "2021-09-26": 1440,
@@ -336,7 +335,7 @@
     "timeMonth": 0,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2021-09-29": 1073,
+      "2021-09-29": 1090,
       "2021-09-28": 1440,
       "2021-09-27": 1440,
       "2021-09-26": 1440,
@@ -426,7 +425,7 @@
     "timeMonth": 0,
     "timeYear": 339,
     "dailyMinutesDown": {
-      "2021-09-29": 1073,
+      "2021-09-29": 1090,
       "2021-09-28": 1440,
       "2021-09-27": 1440,
       "2021-09-26": 1440,
@@ -519,7 +518,7 @@
     "timeMonth": 0,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2021-09-29": 1073,
+      "2021-09-29": 1090,
       "2021-09-28": 1440,
       "2021-09-27": 1440,
       "2021-09-26": 1440,
