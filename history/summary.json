@@ -4,9 +4,9 @@
     "url": "https://xcpcio.com",
     "icon": "https://favicons.githubusercontent.com/xcpcio.com",
     "slug": "xcpcio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.58%",
@@ -16,6 +16,7 @@
     "timeMonth": 1361,
     "timeYear": 1782,
     "dailyMinutesDown": {
+      "2022-01-21": 0,
       "2022-01-10": 22,
       "2022-01-09": 80,
       "2022-01-08": 16,
@@ -60,8 +61,7 @@
       "2021-07-09": 38,
       "2021-07-06": 12,
       "2021-07-05": 10,
-      "2021-07-04": 33,
-      "2021-07-03": 10
+      "2021-07-04": 33
     }
   },
   {
