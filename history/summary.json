@@ -4,12 +4,12 @@
     "url": "https://xcpcio.com",
     "icon": "https://favicons.githubusercontent.com/xcpcio.com",
     "slug": "xcpcio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "97.13%",
+    "uptimeDay": "97.11%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "99.57%",
+    "uptimeYear": "99.58%",
     "time": 1739,
     "timeDay": 1370,
     "timeWeek": 1365,
@@ -60,8 +60,7 @@
       "2021-07-14": 108,
       "2021-07-11": 30,
       "2021-07-10": 91,
-      "2021-07-09": 38,
-      "2021-07-06": 12
+      "2021-07-09": 38
     }
   },
   {
@@ -71,9 +70,9 @@
     "slug": "board",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "96.46%",
-    "uptimeWeek": "99.49%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.62%",
     "time": 1459,
     "timeDay": 1113,
@@ -81,7 +80,7 @@
     "timeMonth": 1131,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2022-02-22": 27,
+      "2022-02-22": 16,
       "2022-02-21": 25,
       "2022-01-27": 23,
       "2022-01-09": 41,
