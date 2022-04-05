@@ -6,17 +6,16 @@
     "slug": "xcpcio",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.57%",
-    "time": 1707,
-    "timeDay": 1070,
-    "timeWeek": 1078,
-    "timeMonth": 1154,
+    "time": 1706,
+    "timeDay": 1132,
+    "timeWeek": 1065,
+    "timeMonth": 1146,
     "timeYear": 1732,
     "dailyMinutesDown": {
-      "2022-04-04": 9,
       "2022-04-02": 17,
       "2022-03-01": 23,
       "2022-02-23": 19,
@@ -63,7 +62,7 @@
       "2021-07-15": 248,
       "2021-07-14": 108,
       "2021-07-11": 30,
-      "2021-07-10": 73
+      "2021-07-10": 91
     }
   },
   {
@@ -77,10 +76,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.65%",
-    "time": 1414,
-    "timeDay": 954,
-    "timeWeek": 1063,
-    "timeMonth": 1106,
+    "time": 1413,
+    "timeDay": 1116,
+    "timeWeek": 1056,
+    "timeMonth": 1105,
     "timeYear": 1395,
     "dailyMinutesDown": {
       "2022-03-12": 18,
