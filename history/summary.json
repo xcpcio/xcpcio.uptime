@@ -4,18 +4,19 @@
     "url": "https://xcpcio.com",
     "icon": "https://favicons.githubusercontent.com/xcpcio.com",
     "slug": "xcpcio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.76%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.56%",
-    "time": 1671,
+    "time": 1672,
     "timeDay": 1023,
     "timeWeek": 1113,
     "timeMonth": 1164,
     "timeYear": 1692,
     "dailyMinutesDown": {
+      "2022-05-22": 1,
       "2022-05-18": 16,
       "2022-05-04": 91,
       "2022-04-02": 17,
@@ -64,7 +65,7 @@
       "2021-07-15": 248,
       "2021-07-14": 108,
       "2021-07-11": 30,
-      "2021-07-10": 57
+      "2021-07-10": 34
     }
   },
   {
@@ -72,9 +73,9 @@
     "url": "https://board.xcpcio.com",
     "icon": "https://favicons.githubusercontent.com/board.xcpcio.com",
     "slug": "board",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.63%",
@@ -84,6 +85,7 @@
     "timeMonth": 1161,
     "timeYear": 1380,
     "dailyMinutesDown": {
+      "2022-05-22": 0,
       "2022-05-18": 15,
       "2022-05-04": 91,
       "2022-04-10": 26,
