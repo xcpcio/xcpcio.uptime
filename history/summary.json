@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xcpcio.com.ico",
     "slug": "xcpcio",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.55%",
     "time": 1569,
-    "timeDay": 1186,
-    "timeWeek": 1191,
-    "timeMonth": 1267,
-    "timeYear": 1337,
+    "timeDay": 1174,
+    "timeWeek": 1151,
+    "timeMonth": 1271,
+    "timeYear": 1335,
     "dailyMinutesDown": {
       "2022-10-01": 75,
       "2022-09-09": 26,
@@ -37,8 +37,7 @@
       "2022-01-08": 16,
       "2022-01-07": 21,
       "2022-01-05": 18,
-      "2021-10-10": 23,
-      "2021-10-05": 135
+      "2021-10-10": 23
     }
   },
   {
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 1346,
-    "timeDay": 1154,
-    "timeWeek": 1251,
-    "timeMonth": 1245,
+    "timeDay": 1096,
+    "timeWeek": 1093,
+    "timeMonth": 1247,
     "timeYear": 1192,
     "dailyMinutesDown": {
       "2022-08-04": 192,
@@ -70,8 +69,7 @@
       "2022-02-21": 25,
       "2022-01-27": 23,
       "2022-01-09": 41,
-      "2021-10-10": 22,
-      "2021-10-05": 135
+      "2021-10-10": 22
     }
   }
 ]
