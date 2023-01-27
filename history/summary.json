@@ -6,15 +6,15 @@
     "slug": "xcpcio",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "97.35%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.60%",
     "time": 1375,
-    "timeDay": 1112,
-    "timeWeek": 1116,
-    "timeMonth": 1169,
-    "timeYear": 1212,
+    "timeDay": 1339,
+    "timeWeek": 1120,
+    "timeMonth": 1175,
+    "timeYear": 1211,
     "dailyMinutesDown": {
       "2023-01-25": 38,
       "2023-01-04": 36,
@@ -32,8 +32,7 @@
       "2022-03-01": 23,
       "2022-02-23": 19,
       "2022-02-22": 16,
-      "2022-02-21": 40,
-      "2022-01-27": 23
+      "2022-02-21": 40
     }
   },
   {
@@ -43,14 +42,14 @@
     "slug": "board",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "97.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.63%",
-    "time": 1165,
-    "timeDay": 1089,
-    "timeWeek": 1121,
-    "timeMonth": 1163,
+    "time": 1166,
+    "timeDay": 1369,
+    "timeWeek": 1105,
+    "timeMonth": 1168,
     "timeYear": 1145,
     "dailyMinutesDown": {
       "2023-01-25": 38,
@@ -64,8 +63,7 @@
       "2022-03-12": 18,
       "2022-02-23": 19,
       "2022-02-22": 16,
-      "2022-02-21": 25,
-      "2022-01-27": 23
+      "2022-02-21": 25
     }
   }
 ]
