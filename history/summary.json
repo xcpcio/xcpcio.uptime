@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 1218,
-    "timeDay": 1170,
-    "timeWeek": 1194,
-    "timeMonth": 1294,
+    "timeDay": 1167,
+    "timeWeek": 1226,
+    "timeMonth": 1304,
     "timeYear": 1184,
     "dailyMinutesDown": {
       "2023-01-25": 38,
@@ -27,8 +27,7 @@
       "2022-07-18": 24,
       "2022-05-22": 34,
       "2022-05-18": 16,
-      "2022-05-04": 91,
-      "2022-04-02": 17
+      "2022-05-04": 91
     }
   },
   {
@@ -37,15 +36,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/board.xcpcio.com.ico",
     "slug": "board",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 1166,
-    "timeDay": 1155,
-    "timeWeek": 1203,
-    "timeMonth": 1236,
+    "timeDay": 1132,
+    "timeWeek": 1226,
+    "timeMonth": 1244,
     "timeYear": 1153,
     "dailyMinutesDown": {
       "2023-01-25": 38,
