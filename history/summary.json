@@ -4,9 +4,9 @@
     "url": "https://xcpcio.com",
     "icon": "https://icons.duckduckgo.com/ip3/xcpcio.com.ico",
     "slug": "xcpcio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1231,
     "timeYear": 1197,
     "dailyMinutesDown": {
+      "2023-11-09": 0,
       "2023-01-25": 38,
       "2023-01-04": 36
     }
@@ -25,18 +26,19 @@
     "url": "https://board.xcpcio.com",
     "icon": "https://icons.duckduckgo.com/ip3/board.xcpcio.com.ico",
     "slug": "board",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1197,
+    "time": 1198,
     "timeDay": 1253,
     "timeWeek": 1178,
     "timeMonth": 1290,
     "timeYear": 1208,
     "dailyMinutesDown": {
+      "2023-11-09": 0,
       "2023-05-15": 29,
       "2023-01-25": 38,
       "2023-01-04": 36
