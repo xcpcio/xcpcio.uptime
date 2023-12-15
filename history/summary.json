@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 1206,
     "timeDay": 1301,
-    "timeWeek": 1157,
+    "timeWeek": 1168,
     "timeMonth": 1231,
     "timeYear": 1215,
     "dailyMinutesDown": {
@@ -27,9 +27,9 @@
     "url": "https://board.xcpcio.com",
     "icon": "https://icons.duckduckgo.com/ip3/board.xcpcio.com.ico",
     "slug": "board",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
@@ -39,6 +39,7 @@
     "timeMonth": 1250,
     "timeYear": 1228,
     "dailyMinutesDown": {
+      "2023-12-15": 0,
       "2023-12-12": 20,
       "2023-11-30": 15,
       "2023-05-15": 29,
